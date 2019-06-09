@@ -693,6 +693,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   countText: {fileID: 60777159}
+  unityChanObj: {fileID: 911362799}
 --- !u!82 &206660314
 AudioSource:
   m_ObjectHideFlags: 0
@@ -6641,6 +6642,31 @@ PrefabInstance:
       propertyPath: m_Name
       value: GoalObj
       objectReference: {fileID: 0}
+    - target: {fileID: 4249477709700923641, guid: 8afd8da015f46464badee663e7a1fbac,
+        type: 3}
+      propertyPath: unityChan
+      value: 
+      objectReference: {fileID: 911362799}
+    - target: {fileID: 4249477709700923641, guid: 8afd8da015f46464badee663e7a1fbac,
+        type: 3}
+      propertyPath: gameBgm
+      value: 
+      objectReference: {fileID: 656535266}
+    - target: {fileID: 4249477709700923641, guid: 8afd8da015f46464badee663e7a1fbac,
+        type: 3}
+      propertyPath: goalBgm
+      value: 
+      objectReference: {fileID: 1182548794}
+    - target: {fileID: 4249477709700923641, guid: 8afd8da015f46464badee663e7a1fbac,
+        type: 3}
+      propertyPath: nextButton
+      value: 
+      objectReference: {fileID: 84153969}
+    - target: {fileID: 4249477709700923641, guid: 8afd8da015f46464badee663e7a1fbac,
+        type: 3}
+      propertyPath: textObj
+      value: 
+      objectReference: {fileID: 827025675}
     - target: {fileID: 4249477709700923645, guid: 8afd8da015f46464badee663e7a1fbac,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6696,31 +6722,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4249477709700923641, guid: 8afd8da015f46464badee663e7a1fbac,
-        type: 3}
-      propertyPath: unityChan
-      value: 
-      objectReference: {fileID: 911362799}
-    - target: {fileID: 4249477709700923641, guid: 8afd8da015f46464badee663e7a1fbac,
-        type: 3}
-      propertyPath: gameBgm
-      value: 
-      objectReference: {fileID: 656535266}
-    - target: {fileID: 4249477709700923641, guid: 8afd8da015f46464badee663e7a1fbac,
-        type: 3}
-      propertyPath: goalBgm
-      value: 
-      objectReference: {fileID: 1182548794}
-    - target: {fileID: 4249477709700923641, guid: 8afd8da015f46464badee663e7a1fbac,
-        type: 3}
-      propertyPath: nextButton
-      value: 
-      objectReference: {fileID: 84153969}
-    - target: {fileID: 4249477709700923641, guid: 8afd8da015f46464badee663e7a1fbac,
-        type: 3}
-      propertyPath: textObj
-      value: 
-      objectReference: {fileID: 827025675}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8afd8da015f46464badee663e7a1fbac, type: 3}
 --- !u!1001 &7132218558182494909

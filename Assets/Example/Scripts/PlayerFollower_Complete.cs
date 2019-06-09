@@ -12,6 +12,7 @@ public class PlayerFollower_Complete : MonoBehaviour
     void Start()
     {
         offset = this.transform.position - player.transform.position;
+        //this.transform.rotation = Quaternion.Euler(0, 0, 0);
     }
 
     // Update is called once per frame

@@ -1009,6 +1009,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   countText: {fileID: 1816089102}
+  unityChanObj: {fileID: 911362799}
 --- !u!82 &206660314
 AudioSource:
   m_ObjectHideFlags: 0
