@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{31D3D1AD-8EBF-9128-C424-2B08B9560C47}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Score.cs">
+    <Files>
+      <File FileName="Assets/Title.cs" Line="30" Column="1" />
+      <File FileName="Assets/Score.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityChanBallRoll" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Score.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3b39a05d-02f8-4d52-9faa-4d6b656e0a4c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

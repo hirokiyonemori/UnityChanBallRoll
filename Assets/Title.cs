@@ -20,8 +20,17 @@ public class Title : MonoBehaviour
         }
 
     }
-    public void ClickButton()
+    public void ClickStartButton()
     {
         SceneManager.LoadScene("Stage1");
+    }
+
+    public void ClickQuitButton()
+    {
+#if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+#else
+        Application.Quit();
+#endif
     }
 }
